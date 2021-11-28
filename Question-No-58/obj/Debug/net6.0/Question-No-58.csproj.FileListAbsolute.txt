@@ -1,0 +1,15 @@
+E:\Question-No-58\bin\Debug\net6.0\Question-No-58.exe
+E:\Question-No-58\bin\Debug\net6.0\Question-No-58.deps.json
+E:\Question-No-58\bin\Debug\net6.0\Question-No-58.runtimeconfig.json
+E:\Question-No-58\bin\Debug\net6.0\Question-No-58.dll
+E:\Question-No-58\bin\Debug\net6.0\ref\Question-No-58.dll
+E:\Question-No-58\bin\Debug\net6.0\Question-No-58.pdb
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.csproj.AssemblyReference.cache
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.GeneratedMSBuildEditorConfig.editorconfig
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.AssemblyInfoInputs.cache
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.AssemblyInfo.cs
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.csproj.CoreCompileInputs.cache
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.dll
+E:\Question-No-58\obj\Debug\net6.0\ref\Question-No-58.dll
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.pdb
+E:\Question-No-58\obj\Debug\net6.0\Question-No-58.genruntimeconfig.cache
